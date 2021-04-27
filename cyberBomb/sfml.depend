@@ -1,0 +1,1158 @@
+# depslib dependency file v1.0
+1583172571 source:c:\users\nikhi\desktop\cpp\sfml\main.cpp
+	<sstream>
+	<SFML/Graphics.hpp>
+	"Player.h"
+	"Map.h"
+	"Perblock.h"
+	"tempBlock.h"
+	"Bomb.h"
+	"Display.h"
+	"texts.h"
+	"gameMusic.h"
+	"Intro.h"
+	<iostream>
+	<windows.h>
+
+1583268934 >
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/VertexBuffer.hpp>
+	<SFML/Graphics/View.hpp>
+
+1525812018 hics/View.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Clipboard.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1525812018 ow/WindowStyle.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1525812018 em/Vector3.hpp>
+
+1539635488 d:\games\sfml-2.5.1\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1539635488 ditionals.h"
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 em/Time.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 ig.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 em/Export.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1583258783 
+
+1539635488 d:\games\sfml-2.5.1\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 em/NonCopyable.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1525812018 em/String.inl>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1525812018 em/Utf.inl>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\utf.inl
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\string.inl
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1525812018 em/Thread.inl>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\thread.inl
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1525812018 em/ThreadLocalPtr.inl>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\threadlocalptr.inl
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1525812018 em/Vector2.inl>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\vector2.inl
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1525812018 em/Vector3.inl>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\system\vector3.inl
+
+1539635488 d:\games\sfml-2.5.1\include\sfml\window\clipboard.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525812018 em/String.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\contextsettings.hpp
+	<SFML/Config.hpp>
+
+1539635488 d:\games\sfml-2.5.1\include\sfml\window\cursor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 em/Vector2.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1525812018 ow/Sensor.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1525812018 ow/Export.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\window.hpp
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Cursor.hpp>
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\window\windowstyle.hpp
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525812018 hics/Export.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525812018 hics/Shape.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1525812018 hics/RenderStates.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525812018 hics/Transform.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1525812018 hics/Rect.inl>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\rect.inl
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\primitivetype.hpp
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525812018 hics/Rect.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1525812018 ow/GlResource.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Window/ContextSettings.hpp>
+
+1525812018 ow/ContextSettings.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glsl.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\glsl.hpp
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Glsl.inl>
+
+1525812018 hics/Glsl.inl>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\glsl.inl
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\graphics\vertexbuffer.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1583174846 c:\users\nikhi\desktop\cpp\sfml\include\player.h
+	<SFML/Graphics.hpp>
+	<Perblock.h>
+	<tempBlock.h>
+
+1583230043 .h>
+
+1580835189 c:\users\nikhi\desktop\cpp\sfml\include\map.h
+	<SFML/Graphics.hpp>
+
+1583236637 hics.hpp>
+
+1581951493 c:\users\nikhi\desktop\cpp\sfml\include\perblock.h
+	<SFML/Graphics.hpp>
+
+1583166219 source:c:\users\nikhi\desktop\cpp\sfml\src\map.cpp
+	"Map.h"
+	<SFML/Graphics.hpp>
+
+1583167276 source:c:\users\nikhi\desktop\cpp\sfml\src\player.cpp
+	"Player.h"
+	"Perblock.h"
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1583291969 
+
+1583166015 source:c:\users\nikhi\desktop\cpp\sfml\src\perblock.cpp
+	"Perblock.h"
+	<SFML/Graphics.hpp>
+
+1581951127 c:\users\nikhi\desktop\cpp\sfml\include\tempblock.h
+	<SFML/Graphics.hpp>
+
+1581951127 source:c:\users\nikhi\desktop\cpp\sfml\src\tempblock.cpp
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+
+1583169990 source:c:\users\nikhi\desktop\cpp\sfml\src\bomb.cpp
+	"Bomb.h"
+	"tempBlock.h"
+	"Player.h"
+	"gameMusic.h"
+	"Map.h"
+	"texts.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<windows.h>
+
+1583170004 c:\users\nikhi\desktop\cpp\sfml\include\bomb.h
+	<SFML/Graphics.hpp>
+	"Player.h"
+	"tempBlock.h"
+	"gameMusic.h"
+	"Map.h"
+	"texts.h"
+
+1581427846 source:c:\users\nikhi\desktop\cpp\sfml\src\display.cpp
+	"Display.h"
+	<SFML/Graphics.hpp>
+
+1581427631 c:\users\nikhi\desktop\cpp\sfml\include\display.h
+	<SFML/Graphics.hpp>
+
+1581673698 c:\users\nikhi\desktop\cpp\sfml\include\gamemusic.h
+	<SFML/Audio.hpp>
+
+1583229991 o.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/OutputSoundFile.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundFileFactory.hpp>
+	<SFML/Audio/SoundFileReader.hpp>
+	<SFML/Audio/SoundFileWriter.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1525812018 o/SoundStream.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\inputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<algorithm>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\export.hpp
+	<SFML/Config.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\listener.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/Vector3.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\music.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundStream.hpp>
+	<SFML/Audio/InputSoundFile.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\soundstream.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Mutex.hpp>
+	<cstdlib>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\soundsource.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Vector3.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\alresource.hpp
+	<SFML/Audio/Export.hpp>
+
+1525812018 o/Export.hpp>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\outputsoundfile.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<string>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\sound.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundSource.hpp>
+	<SFML/System/Time.hpp>
+	<cstdlib>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\soundbuffer.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Time.hpp>
+	<string>
+	<vector>
+	<set>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\soundbufferrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<vector>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\soundrecorder.hpp
+	<SFML/Audio/Export.hpp>
+	<SFML/Audio/AlResource.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Time.hpp>
+	<vector>
+	<string>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\soundfilefactory.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+	<vector>
+	<SFML/Audio/SoundFileFactory.inl>
+
+1525812018 o/SoundFileFactory.inl>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\soundfilefactory.inl
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\soundfilereader.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1525812018 d:\games\sfml-2.5.1\include\sfml\audio\soundfilewriter.hpp
+	<SFML/Audio/Export.hpp>
+	<string>
+
+1581682302 source:c:\users\nikhi\desktop\cpp\sfml\src\gamemusic.cpp
+	"gameMusic.h"
+	<SFML/Audio.hpp>
+
+1581681097 c:\users\nikhi\desktop\cpp\sfml\include\texts.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string>
+	"Bomb.h"
+
+1582894868 source:c:\users\nikhi\desktop\cpp\sfml\src\texts.cpp
+	"Bomb.h"
+	"texts.h"
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+
+1582904060 source:c:\users\nikhi\desktop\cpp\sfml\src\intro.cpp
+	"Intro.h"
+
+1582904045 c:\users\nikhi\desktop\cpp\sfml\include\intro.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Window.hpp>
+
+1583230062 ow.hpp>
+
+1583268721 source:d:\cybbomb\main.cpp
+	<sstream>
+	<SFML/Graphics.hpp>
+	"Player.h"
+	"Map.h"
+	"Perblock.h"
+	"tempBlock.h"
+	"Bomb.h"
+	"Display.h"
+	"texts.h"
+	"gameMusic.h"
+	"Intro.h"
+	"Enemy.h"
+	"Player1Winner.h"
+	<iostream>
+	<windows.h>
+
+1583269397 d:\cybbomb\include\player.h
+	<SFML/Graphics.hpp>
+	<Perblock.h>
+	<tempBlock.h>
+	<BasePlayer.h>
+
+1583291912 r.h>
+
+1583230092 d:\cybbomb\include\perblock.h
+	<SFML/Graphics.hpp>
+
+1581951127 d:\cybbomb\include\tempblock.h
+	<SFML/Graphics.hpp>
+
+1583256020 d:\cybbomb\include\map.h
+	<SFML/Graphics.hpp>
+
+1583258584 d:\cybbomb\include\bomb.h
+	<SFML/Graphics.hpp>
+	"Player.h"
+	"Bomb.h"
+	"tempBlock.h"
+	"gameMusic.h"
+	"Map.h"
+	"texts.h"
+
+1583229853 d:\cybbomb\include\gamemusic.h
+	<SFML/Audio.hpp>
+
+1583269398 d:\cybbomb\include\texts.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string>
+	"Bomb.h"
+
+1581427631 d:\cybbomb\include\display.h
+	<SFML/Graphics.hpp>
+
+1583230062 d:\cybbomb\include\intro.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Window.hpp>
+
+1583268236 source:d:\cybbomb\src\bomb.cpp
+	"Bomb.h"
+	"tempBlock.h"
+	"Player.h"
+	"Bomb.h"
+	"gameMusic.h"
+	"Map.h"
+	"texts.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<windows.h>
+
+1581427846 source:d:\cybbomb\src\display.cpp
+	"Display.h"
+	<SFML/Graphics.hpp>
+
+1583229991 source:d:\cybbomb\src\gamemusic.cpp
+	"gameMusic.h"
+	<SFML/Audio.hpp>
+
+1583266253 source:d:\cybbomb\src\intro.cpp
+	"Intro.h"
+
+1583256083 source:d:\cybbomb\src\map.cpp
+	"Map.h"
+	<SFML/Graphics.hpp>
+
+1583235332 source:d:\cybbomb\src\perblock.cpp
+	"Perblock.h"
+	<SFML/Graphics.hpp>
+
+1583268758 source:d:\cybbomb\src\player.cpp
+	"Player.h"
+	"Perblock.h"
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1583236637 source:d:\cybbomb\src\tempblock.cpp
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+
+1583258783 source:d:\cybbomb\src\texts.cpp
+	"Bomb.h"
+	"texts.h"
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+
+1583214247 source:d:\cybbomb\src\cyberman.cpp
+	"CyberMan.h"
+	"Perblock.h"
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1583230043 d:\cybbomb\include\cyberman.h
+	<SFML/Graphics.hpp>
+	<Perblock.h>
+	<tempBlock.h>
+
+1583214818 source:d:\cybbomb\src\abstractplayer.cpp
+	"AbstractPlayer.h"
+	"Player.h"
+	"Perblock.h"
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+
+1583215442 d:\cybbomb\include\abstractplayer.h
+	<SFML/Graphics.hpp>
+	<Perblock.h>
+	<tempBlock.h>
+
+1583215518 source:d:\cybbomb\src\iplayer.cpp
+	"Iplayer.h"
+	"Perblock.h"
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1583215725 d:\cybbomb\include\iplayer.h
+	<AbstractPlayer.h>
+	<Perblock.h>
+	<tempBlock.h>
+
+1583249121 source:d:\cybbomb\src\enemy.cpp
+	"Enemy.h"
+	<SFML/Graphics.hpp>
+
+1583249191 d:\cybbomb\include\enemy.h
+	<SFML/Graphics.hpp>
+	"tempBlock.h"
+
+1583249191 .h"
+
+1583269398 d:\cybbomb\include\baseplayer.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	<Perblock.h>
+	<tempBlock.h>
+
+1583267799 source:d:\cybbomb\src\baseplayer.cpp
+	"BasePlayer.h"
+
+1583269398 r.h"
+
+1583264206 source:d:\cybbomb\src\player1winner.cpp
+	"Player1Winner.h"
+
+1583264206 nner.h"
+
+1583264243 d:\cybbomb\include\player1winner.h
+	<SFML/Graphics.hpp>
+
+1583291242 source:d:\cyberbomb\main.cpp
+	<SFML/Graphics.hpp>
+	"Player.h"
+	"Map.h"
+	"Perblock.h"
+	"tempBlock.h"
+	"Bomb.h"
+	"gameMusic.h"
+	"Intro.h"
+	"Enemy.h"
+	"Player1Winner.h"
+	<iostream>
+	<windows.h>
+
+1583291912 d:\cyberbomb\include\player.h
+	<SFML/Graphics.hpp>
+	<Perblock.h>
+	<tempBlock.h>
+	<BasePlayer.h>
+
+1583230092 d:\cyberbomb\include\perblock.h
+	<SFML/Graphics.hpp>
+
+1581951127 d:\cyberbomb\include\tempblock.h
+	<SFML/Graphics.hpp>
+
+1583269398 d:\cyberbomb\include\baseplayer.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	<Perblock.h>
+	<tempBlock.h>
+
+1583256020 d:\cyberbomb\include\map.h
+	<SFML/Graphics.hpp>
+
+1583258584 d:\cyberbomb\include\bomb.h
+	<SFML/Graphics.hpp>
+	"Player.h"
+	"Bomb.h"
+	"tempBlock.h"
+	"gameMusic.h"
+	"Map.h"
+	"texts.h"
+
+1583229853 d:\cyberbomb\include\gamemusic.h
+	<SFML/Audio.hpp>
+
+1583269398 d:\cyberbomb\include\texts.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string>
+	"Bomb.h"
+
+1581427631 d:\cyberbomb\include\display.h
+	<SFML/Graphics.hpp>
+
+1583230062 d:\cyberbomb\include\intro.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Window.hpp>
+
+1583249191 d:\cyberbomb\include\enemy.h
+	<SFML/Graphics.hpp>
+	"tempBlock.h"
+
+1583264243 d:\cyberbomb\include\player1winner.h
+	<SFML/Graphics.hpp>
+
+1583269398 source:d:\cyberbomb\src\baseplayer.cpp
+	"BasePlayer.h"
+
+1583268934 source:d:\cyberbomb\src\bomb.cpp
+	"Bomb.h"
+	"tempBlock.h"
+	"Player.h"
+	"Bomb.h"
+	"gameMusic.h"
+	"Map.h"
+	"texts.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<windows.h>
+
+1583214247 source:d:\cyberbomb\src\cyberman.cpp
+	"CyberMan.h"
+	"Perblock.h"
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1583230043 d:\cyberbomb\include\cyberman.h
+	<SFML/Graphics.hpp>
+	<Perblock.h>
+	<tempBlock.h>
+
+1581427846 source:d:\cyberbomb\src\display.cpp
+	"Display.h"
+	<SFML/Graphics.hpp>
+
+1583290842 source:d:\cyberbomb\src\enemy.cpp
+	"Enemy.h"
+	<SFML/Graphics.hpp>
+
+1583229991 source:d:\cyberbomb\src\gamemusic.cpp
+	"gameMusic.h"
+	<SFML/Audio.hpp>
+
+1583269358 source:d:\cyberbomb\src\intro.cpp
+	"Intro.h"
+
+1583256083 source:d:\cyberbomb\src\map.cpp
+	"Map.h"
+	<SFML/Graphics.hpp>
+
+1583235332 source:d:\cyberbomb\src\perblock.cpp
+	"Perblock.h"
+	<SFML/Graphics.hpp>
+
+1583291969 source:d:\cyberbomb\src\player.cpp
+	"Player.h"
+	"Perblock.h"
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1583264206 source:d:\cyberbomb\src\player1winner.cpp
+	"Player1Winner.h"
+
+1583236637 source:d:\cyberbomb\src\tempblock.cpp
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+
+1583258783 source:d:\cyberbomb\src\texts.cpp
+	"Bomb.h"
+	"texts.h"
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+
+1583311944 source:/home/cool/mucool backup/New folder/cyberBomb/main.cpp
+	<SFML/Graphics.hpp>
+	"Player.h"
+	"Map.h"
+	"Perblock.h"
+	"tempBlock.h"
+	"Bomb.h"
+	"gameMusic.h"
+	"Intro.h"
+	"Enemy.h"
+	"Player1Winner.h"
+	<iostream>
+	<windows.h>
+
+1583312614 /home/cool/mucool backup/New folder/cyberBomb/include/Player.h
+	<SFML/Graphics.hpp>
+	<Perblock.h>
+	<tempBlock.h>
+	<BasePlayer.h>
+
+1583250794 /home/cool/mucool backup/New folder/cyberBomb/include/Perblock.h
+	<SFML/Graphics.hpp>
+
+1581971828 /home/cool/mucool backup/New folder/cyberBomb/include/tempBlock.h
+	<SFML/Graphics.hpp>
+
+1583290100 /home/cool/mucool backup/New folder/cyberBomb/include/BasePlayer.h
+	<iostream>
+	"SFML/Graphics.hpp"
+	<Perblock.h>
+	<tempBlock.h>
+
+1583276722 /home/cool/mucool backup/New folder/cyberBomb/include/Map.h
+	<SFML/Graphics.hpp>
+
+1583279286 /home/cool/mucool backup/New folder/cyberBomb/include/Bomb.h
+	<SFML/Graphics.hpp>
+	"Player.h"
+	"Bomb.h"
+	"tempBlock.h"
+	"gameMusic.h"
+	"Map.h"
+	"texts.h"
+
+1583250554 /home/cool/mucool backup/New folder/cyberBomb/include/gameMusic.h
+	<SFML/Audio.hpp>
+
+1583290100 /home/cool/mucool backup/New folder/cyberBomb/include/texts.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string>
+	"Bomb.h"
+
+1583250764 /home/cool/mucool backup/New folder/cyberBomb/include/Intro.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Window.hpp>
+
+1583269892 /home/cool/mucool backup/New folder/cyberBomb/include/Enemy.h
+	<SFML/Graphics.hpp>
+	"tempBlock.h"
+
+1583284944 /home/cool/mucool backup/New folder/cyberBomb/include/Player1Winner.h
+	<SFML/Graphics.hpp>
+
+1583290100 source:/home/cool/mucool backup/New folder/cyberBomb/src/BasePlayer.cpp
+	"BasePlayer.h"
+
+1583289636 source:/home/cool/mucool backup/New folder/cyberBomb/src/Bomb.cpp
+	"Bomb.h"
+	"tempBlock.h"
+	"Player.h"
+	"Bomb.h"
+	"gameMusic.h"
+	"Map.h"
+	"texts.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+	<windows.h>
+
+1583234948 source:/home/cool/mucool backup/New folder/cyberBomb/src/CyberMan.cpp
+	"CyberMan.h"
+	"Perblock.h"
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1583250744 /home/cool/mucool backup/New folder/cyberBomb/include/CyberMan.h
+	<SFML/Graphics.hpp>
+	<Perblock.h>
+	<tempBlock.h>
+
+1581448548 source:/home/cool/mucool backup/New folder/cyberBomb/src/Display.cpp
+	"Display.h"
+	<SFML/Graphics.hpp>
+
+1581448332 /home/cool/mucool backup/New folder/cyberBomb/include/Display.h
+	<SFML/Graphics.hpp>
+
+1583311544 source:/home/cool/mucool backup/New folder/cyberBomb/src/Enemy.cpp
+	"Enemy.h"
+	<SFML/Graphics.hpp>
+
+1583250692 source:/home/cool/mucool backup/New folder/cyberBomb/src/gameMusic.cpp
+	"gameMusic.h"
+	<SFML/Audio.hpp>
+
+1583290060 source:/home/cool/mucool backup/New folder/cyberBomb/src/Intro.cpp
+	"Intro.h"
+
+1583276784 source:/home/cool/mucool backup/New folder/cyberBomb/src/Map.cpp
+	"Map.h"
+	<SFML/Graphics.hpp>
+
+1583256034 source:/home/cool/mucool backup/New folder/cyberBomb/src/Perblock.cpp
+	"Perblock.h"
+	<SFML/Graphics.hpp>
+
+1583312670 source:/home/cool/mucool backup/New folder/cyberBomb/src/Player.cpp
+	"Player.h"
+	"Perblock.h"
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1583284908 source:/home/cool/mucool backup/New folder/cyberBomb/src/Player1Winner.cpp
+	"Player1Winner.h"
+
+1583257338 source:/home/cool/mucool backup/New folder/cyberBomb/src/tempBlock.cpp
+	"tempBlock.h"
+	<SFML/Graphics.hpp>
+
+1583279484 source:/home/cool/mucool backup/New folder/cyberBomb/src/texts.cpp
+	"Bomb.h"
+	"texts.h"
+	<SFML/Graphics.hpp>
+	<sstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+
